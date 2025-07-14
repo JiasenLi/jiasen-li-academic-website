@@ -33,9 +33,9 @@ His research interests:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 Degree
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+# 🎓 Education
+- *2021.09 - 2024.08*, <a href="https://www.ucas.ac.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> University of Chinese Academy of Sciences, Master of Natural Science, Master’s thesis: A study of the effect of biofilm formation and oyster culture on the deposition behaviors of microplastics.
+- *2017.09 - 2021.06*, <a href="https://www.hainanu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> Hainan University, Bachelor of Biological Science.
  
 <span class='anchor' id='-lwzl'></span>
 
